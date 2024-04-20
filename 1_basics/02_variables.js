@@ -1,7 +1,7 @@
 const accountID = 144698
 let accountEmail ="Harry@zoho.in"
 var accountPassword = "123654"
-accountCity = "Gujarat"
+let accountCity
 
 console.table([accountID,accountEmail,accountPassword,accountCity])
 
